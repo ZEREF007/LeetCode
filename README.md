@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ZEREF007/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ZEREF007/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ZEREF007/LeetCode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/ZEREF007/LeetCode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0001-two-sum](https://github.com/ZEREF007/LeetCode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ZEREF007/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ZEREF007/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0217-contains-duplicate](https://github.com/ZEREF007/LeetCode/tree/master/0217-contains-duplicate) |
 ## Database
 |  |
 | ------- |
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ZEREF007/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ZEREF007/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
