@@ -1,12 +1,15 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        maxProfit = 0
-        prevDay, nextDay = 0,1
-        while nextDay < len(prices):
-            if prices[prevDay] < prices[nextDay]:
-                profit = prices[nextDay] - prices[prevDay]
-                maxProfit = max(maxProfit, profit)
+        left=0
+        max_profit = 0
+        for right in range(len(prices)):
+            if prices[left] >= prices[right]:
+                left = right
             else:
-                prevDay = nextDay
-            nextDay +=1    
-        return  maxProfit     
+                profit = abs(prices[left] - prices[right])
+                right+=1
+                max_profit = max(profit, max_profit)
+        return max_profit
+
+
+            
